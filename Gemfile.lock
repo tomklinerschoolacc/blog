@@ -1,6 +1,5 @@
 GEM
   remote: https://rubygems.org/
-  ruby "2.5.23"
   specs:
     actioncable (8.0.0)
       actionpack (= 8.0.0)
